@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-    private float health = 0;
+    // private float health = 0;
     private EnemyHealth enemyHealth;
     private Animator animator;
     private ParticleSystem hitParticles;
